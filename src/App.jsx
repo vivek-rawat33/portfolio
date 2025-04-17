@@ -5,7 +5,6 @@ import About from "./components/About";
 import Tech from "./components/Tech";
 import Project from "./components/Project";
 import Contact from "./components/Contact";
-import LocomotiveScroll from "locomotive-scroll";
 
 function App() {
   return (
